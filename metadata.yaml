@@ -1,2 +1,16 @@
+sources:
+  telegram:
+    groups:
+      '123456':
+        name: chronicler-dev
+        topics:
+          live_test_topic:
+            created_at: '2025-01-06T02:20:18.036498'
+            metadata:
+              chat_id: '123456'
+              chat_title: chronicler-dev
+              description: Test topic
+              source: telegram
+            name: Live Test Topic
 topics: {}
 user_id: test_user
